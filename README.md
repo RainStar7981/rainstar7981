@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**RainStar7981/rainstar7981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是RainStar7981，一个热衷于Minecraft原版Mod开发的个人开发者。  
 
-Here are some ideas to get you started:
+#### 在积极维护的项目
+[更多实用配方](https://github.com/RainStar7981/More-Useful-Recipes)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 其他平台个人主页
+
+[哔哩哔哩](https://space.bilibili.com/503995436)  
+
+建议通过哔哩哔哩私信联系我。  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainStar7981)](https://github.com/anuraghazra/github-readme-stats)
