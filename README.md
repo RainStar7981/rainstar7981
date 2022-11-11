@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是RainStar7981，一个热衷于Minecraft原版Mod开发的个人开发者。  
+我是RainStar7981，热衷于Minecraft原版Mod开发。  
 
 #### 在积极维护的项目
 [更多实用配方](https://github.com/RainStar7981/More-Useful-Recipes)  
